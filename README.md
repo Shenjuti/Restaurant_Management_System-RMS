@@ -5,13 +5,13 @@ This is a restaurant Management System website project. From this project, the s
 
 
 --->Problem Solution:
-In this project, restaurant management can easily do their work, have less work load and save their time. Also, customers can simply order food and reserve time slot for a table in advance from home. So that, customers do not have to wait in restaurant. From the homepage, both customers and admin can access the website. Customer can create account or login if he has account previously. After login customer will be re-directed to welcome page from where customer can see a menu, choose food and order as much quantity needed, and after confirming they can see what they have ordered. Also, customer can book an available or multiple time slot from the reservation calendar in advance and see their reservation information. No customer can book an already reserved time slot. Admin can login from the homepage, he can add new food item, update or delete any food item information from the menu, see all customers information, all information of the orders placed in the website and all information of the reservations placed in the website.
+In this project, restaurant management can easily do their work, have less work load and save their time. Also, customers can simply order food and reserve time slot for a table in advance from home. So that, customers do not have to wait in restaurant. From the homepage, both customers and admin can access the website. Customer can create account or login if she/he has account previously. After login customer will be re-directed to welcome page from where customer can see a menu, choose food and order as much quantity needed, and after confirming they can see what they have ordered. Also, customer can book an available or multiple time slot from the reservation calendar in advance and see their reservation information. No customer can book an already reserved time slot. Admin can login from the homepage, he can add new food item, update or delete any food item information from the menu, see all customers information, all information of the orders placed in the website and all information of the reservations placed in the website.
 
 
 --->Feasibility Study
-• Technical feasibility: We are using XAMPP server to run our website & using PHP, SQL, HTML, CSS, BOOTSTRAP, jQuery etc. web technologies. 
-• Operational feasibility: We have performed Registration, Login, Logout, Order Placing, Reservation to solve customer requirement. 
-• Economical feasibility: We can easily manage or find our customer, customer order and reservation from the database & it’s less time consuming. 
+• Technical feasibility: Using XAMPP server to run this website & using PHP, SQL, HTML, CSS, BOOTSTRAP, jQuery etc.
+• Operational feasibility: This website performed Registration, Login, Logout, Order Placing, Reservation to solve customer requirement. 
+• Economical feasibility: Easily manage or find the customer, customer can order and reservation from the database & it’s less time consuming. 
 
 
 --->Requirements Analysis
