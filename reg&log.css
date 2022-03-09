@@ -1,0 +1,43 @@
+body{
+  font-family: 'Orelega One', cursive;
+  background-color: #eb6b38;
+  color: #191a19;
+  text-align: center;
+  border: 40px solid #FF9F1C;
+  border-top: 0px;
+  margin: 0px;
+}
+.container{
+	background-color: #FF9F1C;
+	
+}
+a{
+	color: yellow;
+}
+
+h1{
+ background-color: #FF9F1C;
+ color: #FDFFFC;
+}
+p{
+	background-color: #FF9F1C;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+form{
+	font-family: 'Orelega One', cursive;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#submit{
+  background-color: #FF9F1C;
+  height: 80px;
+  width: 150px;
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 1em;
+  border-radius: 25px
+}
